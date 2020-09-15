@@ -19,7 +19,7 @@ class Block {
 	 *
 	 * @var string
 	 */
-	const BLOCK_NAME = 'augmented-reality/ar-viewer';
+	const BLOCK_NAME =   'augmented-reality/ar-viewer';
 
 	/**
 	 * The plugin.
